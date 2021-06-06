@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://toreo23.github.io/csb-3b3co/static/js/main.4f8d420c.chunk.js",
+    "main.js.map": "https://toreo23.github.io/csb-3b3co/static/js/main.4f8d420c.chunk.js.map",
+    "runtime-main.js": "https://toreo23.github.io/csb-3b3co/static/js/runtime-main.171dccb4.js",
+    "runtime-main.js.map": "https://toreo23.github.io/csb-3b3co/static/js/runtime-main.171dccb4.js.map",
+    "static/js/2.30a73fd2.chunk.js": "https://toreo23.github.io/csb-3b3co/static/js/2.30a73fd2.chunk.js",
+    "static/js/2.30a73fd2.chunk.js.map": "https://toreo23.github.io/csb-3b3co/static/js/2.30a73fd2.chunk.js.map",
+    "index.html": "https://toreo23.github.io/csb-3b3co/index.html",
+    "static/js/2.30a73fd2.chunk.js.LICENSE.txt": "https://toreo23.github.io/csb-3b3co/static/js/2.30a73fd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.171dccb4.js",
+    "static/js/2.30a73fd2.chunk.js",
+    "static/js/main.4f8d420c.chunk.js"
+  ]
+}
